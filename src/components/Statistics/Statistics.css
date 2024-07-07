@@ -8,35 +8,35 @@
   
   .text_good {
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 400;
     margin-bottom: 20px;
-    color: green;
+    color: rgb(5, 5, 5);
   }
-  
+   
   .text_bad {
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 400;
     margin-bottom: 20px;
-    color: red;
+    color: rgb(5, 5, 5);
   }
   
   .text_neutral {
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 400;
     margin-bottom: 20px;
-    color: blue;
+    color: rgb(5, 5, 5);
   }
   
   .text_total {
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 400;
     margin-bottom: 20px;
     color: black;
   }
   
   .text_feedback {
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 400;
     margin-bottom: 20px;
     color: black;
   }
